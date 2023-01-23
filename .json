@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Samuel Baker",
+    "contact": 55,
+    "power": 35,
+    "speed": 35,
+    "eye": 60
+  },
+  {
+    "name": "Cooper Hammersmith",
+    "contact": 60,
+    "power": 60,
+    "speed": 45,
+    "eye": 50
+  },
+  {
+    "name": "Gavin Lebeck",
+    "contact": 65,
+    "power": 50,
+    "speed": 30,
+    "eye": 40
+  },
+  {
+    "name": "Jace Mahlstadt",
+    "contact": 60,
+    "power": 40,
+    "speed": 55,
+    "eye": 60
+  }
+  {
+    "name": "Michael Sakalowski",
+    "contact": 35,
+    "power": 35,
+    "speed": 55,
+    "eye": 55
+  }
+  {
+    "name": "Jaxson Johnstone",
+    "contact": 20,
+    "power": 50,
+    "speed": 25,
+    "eye": 50
+  }
+  {
+    "name": "Hannah Jorgenson",
+    "contact": 45,
+    "power": 20,
+    "speed": 55,
+    "eye": 40
+  }
+  {
+    "name": "Hudson Moran",
+    "contact": 30,
+    "power": 25,
+    "speed": 45,
+    "eye": 40
+  }
+]
